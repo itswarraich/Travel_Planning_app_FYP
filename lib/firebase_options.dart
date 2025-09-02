@@ -41,45 +41,45 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyB6oKb-azXcEo3hzLeg-v3T9tzhurMqkKI',
-    appId: '1:1038902753284:web:c974260faaa1ad10771d51',
-    messagingSenderId: '1038902753284',
-    projectId: 'travel-fyp',
-    authDomain: 'travel-fyp.firebaseapp.com',
-    storageBucket: 'travel-fyp.firebasestorage.app',
-    measurementId: 'G-G805GSW8K3',
+    apiKey: '......',
+    appId: '.......',
+    messagingSenderId: '......',
+    projectId: '.....',
+    authDomain: '...',
+    storageBucket: '..',
+    measurementId: '...',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDbX6nx_NaHRGTbf1P3iOP_lLL5bPUhZuo',
-    appId: '1:1038902753284:android:b4d3c72c7d1f46bc771d51',
-    messagingSenderId: '1038902753284',
-    projectId: 'travel-fyp',
-    storageBucket: 'travel-fyp.firebasestorage.app',
+    apiKey: '.....',
+    appId: '......',
+    messagingSenderId: '.....',
+    projectId: '....',
+    storageBucket: '...',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyC0W-o0aEPrAgeYsaBqpYQzT89VCY1wQzI',
-    appId: '1:1038902753284:ios:29c64be379132220771d51',
-    messagingSenderId: '1038902753284',
+    apiKey: '...',
+    appId: '..',
+    messagingSenderId: '...',
     projectId: 'travel-fyp',
     storageBucket: 'travel-fyp.firebasestorage.app',
     iosBundleId: 'com.example.travelPlanningFyp',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyC0W-o0aEPrAgeYsaBqpYQzT89VCY1wQzI',
-    appId: '1:1038902753284:ios:29c64be379132220771d51',
-    messagingSenderId: '1038902753284',
+    apiKey: '.....',
+    appId: '....',
+    messagingSenderId: '....',
     projectId: 'travel-fyp',
     storageBucket: 'travel-fyp.firebasestorage.app',
     iosBundleId: 'com.example.travelPlanningFyp',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyB6oKb-azXcEo3hzLeg-v3T9tzhurMqkKI',
-    appId: '1:1038902753284:web:d43085c525aacd7c771d51',
-    messagingSenderId: '1038902753284',
+    apiKey: '....',
+    appId: '...',
+    messagingSenderId: '....',
     projectId: 'travel-fyp',
     authDomain: 'travel-fyp.firebaseapp.com',
     storageBucket: 'travel-fyp.firebasestorage.app',

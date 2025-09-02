@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1038902753284",
+    "project_id": "travel-fyp",
+    "storage_bucket": "travel-fyp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038902753284:android:b4d3c72c7d1f46bc771d51",
+        "android_client_info": {
+          "package_name": "com.UT.travel_planning_fyp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbX6nx_NaHRGTbf1P3iOP_lLL5bPUhZuo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
